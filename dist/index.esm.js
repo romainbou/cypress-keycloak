@@ -1,5 +1,5 @@
 /**
- * cypress-keycloak v2.0.3
+ * cypress-keycloak v2.0.4
  *
  * Copyright (c) 2019 babangsund
  *
